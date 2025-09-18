@@ -11,4 +11,4 @@ Note that These Are Experimental Codes for the Purpose of Helping the Readers of
  Amended versions starting with "250918" have been uploaded.<br>
 2. Some old notebooks cannot be opened because of compatibility issues between GitHub and Colab notebooks.<br>
  https://github.com/orgs/community/discussions/155944<br>
- The notebooks with "R1" are uploaded for just records.<br>
+ Notebooks containing "R1," which work around this issue, have been uploaded for viewing purposes only.<br>
