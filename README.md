@@ -10,5 +10,5 @@ Note that These Are Experimental Codes for the Purpose of Helping the Readers of
 1. It is reported that codes in the notebooks no longer work due to the recent syntax change of PyMC.<br>
  Amended versions starting with "250918" have been uploaded.<br>
 2. Some old notebooks cannot be opened because of compatibility issues between GitHub and Colab notebooks.<br>
- https://github.com/orgs/community/discussions/155944#discussioncomment-12923686<br>
+ https://github.com/orgs/community/discussions/155944<br>
  The notebooks with "R1" are uploaded for just records.<br>
