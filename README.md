@@ -7,7 +7,7 @@ Kazuya Tada, "Accelerating Bayesian Estimation of Solar Cell Equivalent Circuit 
 Note that These Are Experimental Codes for the Purpose of Helping the Readers of the Paper to Validate the Concept of the Present Study, and the Author Is Not Responsible for any Damages that May Result from Their Use.
 
 27 June 2026:<br>
-Amendments have been made to the OPV demo file in accordance with the recent syntax change on PyMC available in Google Colab.<br>
+Amendments have been made to the OPV demo files (numpyro & nutpie) in accordance with the recent syntax change on PyMC available in Google Colab.<br>
 
 18 Sep 2025:<br>
 1. It is reported that codes in the notebooks no longer work due to the recent syntax change of PyMC.<br>
