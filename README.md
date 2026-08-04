@@ -6,6 +6,9 @@ Kazuya Tada, "Accelerating Bayesian Estimation of Solar Cell Equivalent Circuit 
 <a href="https://doi.org/10.3390/electronics12173631" target="_blank" rel="noopener">https://doi.org/10.3390/electronics12173631</a><br>
 Note that These Are Experimental Codes for the Purpose of Helping the Readers of the Paper to Validate the Concept of the Present Study, and the Author Is Not Responsible for any Damages that May Result from Their Use.
 
+4 August 2026:<br>
+I have posted a version that uses the Google Colab TPU backend. Although TPU usage is very limited for free Colab users, the sampling speed is impressive.<br>
+
 27 June 2026:<br>
 Amendments have been made to the OPV demo files (numpyro & nutpie) in accordance with the recent syntax change on PyMC available in Google Colab.<br>
 
